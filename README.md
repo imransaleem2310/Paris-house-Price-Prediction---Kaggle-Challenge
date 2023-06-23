@@ -6,7 +6,7 @@
 _**This project revolves around the kaggle.com competition on Regression with a Tabular Paris Housing Price Dataset, found [here](https://www.kaggle.com/competitions/playground-series-s3e6/overview). The project goal was to develop and test regression models designed to predict home sale prices, based on a large number of descriptive features.**_
 
 _**Our members are:**_ 
- - _**Imran Saleem**_
+ - _**Imran Saleem &**_
  - _**Shanzay &**_
  - _**Jaleel Fareed &**_
  - _**Hifsa Sharafat &**_
