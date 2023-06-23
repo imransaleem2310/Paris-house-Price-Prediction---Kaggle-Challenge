@@ -7,7 +7,7 @@ _**This project revolves around the kaggle.com competition on Regression with a 
 
 _**Our members are:**_ 
  - _**Imran Saleem &**_
- - _**Shanzay &**_
+ - _**Shanza &**_
  - _**Jaleel Fareed &**_
  - _**Hifsa Sharafat &**_
  - _**Shreyas Datar &**_
